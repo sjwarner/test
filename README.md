@@ -14,3 +14,6 @@ commit the files
 Step 2: commiting changes (again)
 run `git gui` and use it
 
+Step 3: pushing and pulling into the cloud
+to move your local commits into the cloud (github), run `git push` 
+to get updates from a repo, run `git pull`

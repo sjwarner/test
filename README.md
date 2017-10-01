@@ -10,3 +10,7 @@ run `git diff` if you want to see the changes you've made
 run `git add [filename]` to put file/files in the staging area
 run `git commit -m [little message about what you did in the changes]` to 
 commit the files
+
+Step 2: commiting changes (again)
+run `git gui` and use it
+

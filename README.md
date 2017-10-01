@@ -17,3 +17,10 @@ run `git gui` and use it
 Step 3: pushing and pulling into the cloud
 to move your local commits into the cloud (github), run `git push` 
 to get updates from a repo, run `git pull`
+
+Step 4: forking a repo
+If you want to make changes to someone else's code, that's super good!
+We achieve open source code as a community through this process. The
+first way to do this is to 'fork' the code. This creates a copy of the repo,
+but holds it in YOUR userspace, under YOUR name. To do this, all you
+need to do is go to the repo and click the `fork` button.
